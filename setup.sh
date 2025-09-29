@@ -9,6 +9,7 @@ sudo apt update && sudo apt upgrade -y
 echo "=== Installing tools ==="
 sudo apt install -y \
     btop \
+    git \
     tmux \
     vim \
     curl \
